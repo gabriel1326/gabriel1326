@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**gabriel1326/gabriel1326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Gabriel**, estudante de **Engenharia de Software** apaixonado por games (retro & moderno), animes e HQs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Games
+- Street Fighter
+- Mortal Kombat
+- Undertale
+
+---
+
+### 🧙 Animes
+- Konosuba
+- Dragon Ball
+- JoJo's Bizarre Adventure
+
+---
+
+### 📺 Séries Live-Action
+- The Mentalist
+
+### 🎬 Séries Animadas
+- Avatar: The Last Airbender
+- Murder Drones
+
+---
+
+### 🦇 HQs
+- Spider-Man
+- Batman
+
+---
+
+### 🔧 Tecnologias
+```
+Python
+```
+
+---
+
+### 📫 Contato
+- GitHub: [@gabriel1326](https://github.com/gabriel1326)
